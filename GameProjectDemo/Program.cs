@@ -16,7 +16,7 @@ namespace GameProjectDemo
 
             Customer customer = new Customer();
             customer.Id = 1;
-            //Becasu of the false NationalityId the process will be unsuccess
+            //Because of the false NationalityId the process will be unsuccess
             customer.NationalityId = "111111111111";
             customer.FirstName = "BATUHAN";
             customer.LastName = "AYDOS";
